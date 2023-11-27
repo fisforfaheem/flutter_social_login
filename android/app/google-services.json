@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604572152682",
+    "project_id": "flutter-social-login-exa-53414",
+    "storage_bucket": "flutter-social-login-exa-53414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604572152682:android:679034a39c18b981d92b13",
+        "android_client_info": {
+          "package_name": "com.example.flutter_social_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBofEmXJQYAxlg_FuuqJdpalYvttmEhUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
